@@ -1746,7 +1746,7 @@
             "resourceName": "helix-prod",
             "timeGrain": "",
             "timeGrains": [],
-            "top": "10"
+            "top": "11"
           },
           "queryType": "Application Insights",
           "refId": "A"
